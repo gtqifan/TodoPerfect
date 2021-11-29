@@ -41,8 +41,8 @@ TodoPerfect is an Android Application used for creating and synchronising To-Do 
 - **Requirement** - Requirement that the test cases are validating (number / identifier) 
 - **Action** - Action to perform or input to produce Expected Result Result expected when action is complete 
 - **Actual Result** - What was actually seen 
-- **P / F** - Pass / Fail indicator. “P” = Pass. “F” = Fail 
-- **Notes** - Additional notes, error messages, or other information about the test. 
+- **P / F** - Pass / Fail indicator. “P” = Pass, “F” = Fail 
+- **Notes** - Additional notes, error messages, or other information about the test
 
 ## Project Report
 
