@@ -2,7 +2,7 @@
 
 ## Login Page
 
-<img src="https://s6.jpg.cm/2021/11/30/LPDsh4.jpg" width="200">
+<img src="https://s6.jpg.cm/2021/11/30/LPDsh4.jpg" width="400" class="center" alt="Login Page">
 
 Users will be directed to the login page as they start the TodoPerfect Application for the first time. If users have an existing account, they can enter their email and password to login to their account. The backend will verify if the password is correct. Otherwise, a new user account will be created on the sign-up page. 
 
