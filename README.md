@@ -46,11 +46,11 @@ TodoPerfect is an Android Application used for creating and synchronising To-Do 
 
 ## Project Report
 
-- [**Planning**](docs/planning.html)
-- [**Requirement**](docs/requirement.html)
-- [**Design**](docs/design.html)
-- [**Testing**](docs/testing.html)
-- [**Final Product**](docs/finalProduct.html)
+- [**Planning**](https://gtqifan.github.io/TodoPerfect/planning.html)
+- [**Requirement**](https://gtqifan.github.io/TodoPerfect/requirement.html)
+- [**Design**](https://gtqifan.github.io/TodoPerfect/design.html)
+- [**Testing**](https://gtqifan.github.io/TodoPerfect/testing.html)
+- [**Final Product**](https://gtqifan.github.io/TodoPerfect/finalProduct.html)
 
 ## How to run this application?
 
