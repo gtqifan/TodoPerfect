@@ -8,6 +8,22 @@ Yukun Song, Jiali Chen, Qifan Yang, Parnav Kandarpa, and Sam Sanders
 
 TodoPerfect is an Android Application used for creating and synchronising To-Do tasks among devices. It is login required and a valid email will be used for sign-up; the tasks created will include a Name, Description (optional), Due date, and other features such as Importance (optional), Expected time Cost (optional). The importance of tasks will be highlighted through colors accordingly so that users are able to easily distinguish tasks and their priorities, and notifications will be posted prior to the due time.
 
+## Technologies
+
+**Front-end:** the project is implemented using Kotlin as the language, Android Studio as the IDE, and Gradle as the build tool.
+
+**Back-end:** the project is developed using S3 structure and lambda functions, which are hosted on Amazon Web Services (AWS) with the corresponding NoSQL DynamoDB database.
+
+**Testing:** the project utilizes JUnit as the framework for repeatable tests. (Kotlin and Java share the interpreter, so they can both use JUnit).
+
+## Team Contribution
+
+**Yukun Song:** Android application development and testing
+**Jiali Chen:** RESTful API for Login and Signup queries and testing
+**Qifan Yang:** RESTful API for account database, documentation, and testing
+**Pranav Kandarpa:** Connecting the backend and the frontend part
+**Sam Sanders:** Documentation and testing
+
 ## Definitions and Acronyms
 
 - **AWS** - Amazon Web Services
