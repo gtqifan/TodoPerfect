@@ -1,12 +1,12 @@
-## CS 3300: TodoPerfect by Team 03 - Placeholder
+# CS 3300: TodoPerfect by Team 03 - Placeholder
 
 Yukun Song, Jiali Chen, Qifan Yang, Parnav Kandarpa, and Sam Sanders
 
-**Introduction**
+## Introduction
 
 TodoPerfect is an Android Application used for creating and synchronising To-Do tasks among devices. It is login required and a valid email will be used for sign-up; the tasks created will include a Name, Description (optional), Due date, and other features such as Importance (optional), Expected time Cost (optional). The importance of tasks will be highlighted through colors accordingly so that users are able to easily distinguish tasks and their priorities, and notifications will be posted prior to the due time.
 
-**Definitions and Acronyms**
+##Definitions and Acronyms
 
 - **AWS** - Amazon Web Services
 - **API** - Application programming interface, a type of software interface, offering a service to other pieces of software
