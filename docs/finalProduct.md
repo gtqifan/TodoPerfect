@@ -2,11 +2,11 @@
 
 ## Login Page
 
-![Login Page](https://s6.jpg.cm/2021/11/30/LPDsh4.jpg =250x "Login Page")
+<img src="https://s6.jpg.cm/2021/11/30/LPDsh4.jpg" width="200">
 
 Users will be directed to the login page as they start the TodoPerfect Application for the first time. If users have an existing account, they can enter their email and password to login to their account. The backend will verify if the password is correct. Otherwise, a new user account will be created on the sign-up page. 
 
-### Login Page - Wrong Password Entered
+### Wrong Password Entered
 
 User-entered password will be salted and then sent to the backend for verification. If the return value indicates the entered password does not match the stored password, a message of “Incorrect username or password” will pop-up.
 
@@ -14,7 +14,7 @@ User-entered password will be salted and then sent to the backend for verificati
 
 New users will be directed to this page for sign-up. By creating a new user account, password needs to be confirmed and email needs to be verified. User passwords should be in compliance with our requirement (in the pop-up window). For email verification, we used AWS built-in service called Amazon Cognito to send verification code to the user-entered email address. 
 
-### Sign-Up Page - Functions
+### Functions
 
 An email containing verification code will be sent to the email entered and a notification window will pop up if two passwords entered don’t match. 
 
