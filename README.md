@@ -7,6 +7,7 @@ Developed by Yukun Song, Jiali Chen, Qifan Yang, Parnav Kandarpa, and Sam Sander
 **Origional GitHub repository is here (with private access): [Origional GitHub Repo](https://github.com/Spark-RTG/TodoPerfect3300)**
 
 <img src="https://s6.jpg.cm/2021/11/30/LPDjUU.png" width="200" alt="Icon">
+
 ## Introduction
 
 TodoPerfect is an Android Application used for creating and synchronising To-Do tasks among devices. It is login required and a valid email will be used for sign-up; the tasks created will include a Name, Description (optional), Due date, and other features such as Importance (optional), Expected time Cost (optional). The importance of tasks will be highlighted through colors accordingly so that users are able to easily distinguish tasks and their priorities, and notifications will be posted prior to the due time.
