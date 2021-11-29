@@ -19,9 +19,13 @@ TodoPerfect is an Android Application used for creating and synchronising To-Do 
 ## Team Contribution
 
 **Yukun Song:** Android application development and testing
+
 **Jiali Chen:** RESTful API for Login and Signup queries and testing
+
 **Qifan Yang:** RESTful API for account database, documentation, and testing
+
 **Pranav Kandarpa:** Connecting the backend and the frontend part
+
 **Sam Sanders:** Documentation and testing
 
 ## Definitions and Acronyms
