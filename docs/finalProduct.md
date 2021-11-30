@@ -67,4 +67,4 @@ As the timer goes off, users can ask for more time (10 minutes) to complete thei
 
 After notification function is enabled, users will receive notifications multiple times before the due time. The frequency of notification will be determined based on the task importance, and the time separation between each notification will be set to the estimated time cost in the task setting.
 
-[**Back to Index Page**](https://gtqifan.github.io/TodoPerfect/)
+[**🏃‍♂️ Back to Index Page**](https://gtqifan.github.io/TodoPerfect/)
