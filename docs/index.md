@@ -20,6 +20,8 @@ TodoPerfect is an Android Application used for creating and synchronising To-Do 
 
 **Testing:** the project utilizes JUnit as the framework for repeatable tests. (Kotlin and Java share the interpreter, so they can both use JUnit).
 
+**Version Control:** Git will be used for version control and all code will be stored in private GitHub repositories.
+
 ## Team Contribution
 
 **Yukun Song:** Android application development and testing
