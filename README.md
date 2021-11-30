@@ -2,7 +2,7 @@
 
 **An Andriod 🤖 application for CS 3300 by Team 03 - Placeholder**
 
-Developed by Yukun Song, Jiali Chen, Qifan Yang, Parnav Kandarpa, and Sam Sanders with ❤.
+Developed by Yukun Song, Jiali Chen, Qifan Yang, Parnav Kandarpa, and Sam Sanders.
 
 **Origional GitHub repository is here (with private access): [Origional GitHub Repo](https://github.com/Spark-RTG/TodoPerfect3300)**
 

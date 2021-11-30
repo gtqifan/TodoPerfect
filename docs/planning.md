@@ -23,7 +23,12 @@ Having regular progress reports and discussions in group chats, so everyone has 
 
 ## Milestones
 
-Ideal sprints: General Structure-> Oct 24th; Individual Tasks and Components-> Nov 7th; Integration-> Nov 21st; Testing-> Nov 29th
+Ideal development phases : 
+- Software Concept and Requirement Analysis(Oct 24th) 
+- Architectual Design(Oct 31st)
+- Detailed Design(Nov 7th) 
+- Coding and Debugging(Nov 22nd) 
+- System Testing(Nov 29th)
 
 ## Tracking and Control
 
