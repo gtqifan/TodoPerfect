@@ -1,6 +1,6 @@
-# TodoPerfect 
+# TodoPerfect ⌚
 
-**An Andriod application for CS 3300 by Team 03 - Placeholder**
+**An Andriod 🤖 application for CS 3300 by Team 03 - Placeholder**
 
 Developed by Yukun Song, Jiali Chen, Qifan Yang, Parnav Kandarpa, and Sam Sanders with ❤.
 
@@ -8,11 +8,11 @@ Developed by Yukun Song, Jiali Chen, Qifan Yang, Parnav Kandarpa, and Sam Sander
 
 <img src="https://s6.jpg.cm/2021/11/30/LPDjUU.png" width="200" alt="Icon">
 
-## Introduction
+## ✨ Introduction
 
 TodoPerfect is an Android Application used for creating and synchronising To-Do tasks among devices. It is login required and a valid email will be used for sign-up; the tasks created will include a Name, Description (optional), Due date, and other features such as Importance (optional), Expected time Cost (optional). The importance of tasks will be highlighted through colors accordingly so that users are able to easily distinguish tasks and their priorities, and notifications will be posted prior to the due time.
 
-## Technologies
+## 🔨 Technologies
 
 **Front-end:** the project is implemented using Kotlin as the language, Android Studio as the IDE, and Gradle as the build tool.
 
@@ -22,7 +22,7 @@ TodoPerfect is an Android Application used for creating and synchronising To-Do 
 
 **Version Control:** Git will be used for version control and all code will be stored in private GitHub repositories.
 
-## Team Contribution
+## ☕ Team Contribution
 
 **Yukun Song:** Android application development and testing
 
@@ -34,7 +34,7 @@ TodoPerfect is an Android Application used for creating and synchronising To-Do 
 
 **Sam Sanders:** Documentation and testing
 
-## Definitions and Acronyms
+## 📚 Definitions and Acronyms
 
 - **AWS** - Amazon Web Services
 - **API** - Application programming interface, a type of software interface, offering a service to other pieces of software
@@ -48,7 +48,7 @@ TodoPerfect is an Android Application used for creating and synchronising To-Do 
 - **P / F** - Pass / Fail indicator. “P” = Pass, “F” = Fail 
 - **Notes** - Additional notes, error messages, or other information about the test
 
-## Project Report
+## 📃 Project Report
 
 - [**Planning**](https://gtqifan.github.io/TodoPerfect/planning.html)
 - [**Requirement**](https://gtqifan.github.io/TodoPerfect/requirement.html)
@@ -56,7 +56,7 @@ TodoPerfect is an Android Application used for creating and synchronising To-Do 
 - [**Testing**](https://gtqifan.github.io/TodoPerfect/testing.html)
 - [**Final Product**](https://gtqifan.github.io/TodoPerfect/finalProduct.html)
 
-## How to run this application?
+## 🔑 How to run this application?
 
 To run this application, you can directly install the apk file in the ./app/release folder, or run the application on a virtual machine (or physical device) in Android studio.
 
