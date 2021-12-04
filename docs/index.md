@@ -4,7 +4,7 @@
 
 Developed by Yukun Song, Jiali Chen, Qifan Yang, Parnav Kandarpa, and Sam Sanders with ❤.
 
-**Origional GitHub repository is here (with private access): [Origional GitHub Repo](https://github.com/Spark-RTG/TodoPerfect3300)**
+**Origional GitHub repository is here (with private access as required by the instructor): [Origional GitHub Repo](https://github.com/Spark-RTG/TodoPerfect3300)**
 
 <img src="https://s6.jpg.cm/2021/11/30/LPDjUU.png" width="200" alt="Icon">
 
