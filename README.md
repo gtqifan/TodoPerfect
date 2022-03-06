@@ -1,5 +1,3 @@
-[![wakatime](https://wakatime.com/badge/github/gtqifan/TodoPerfect.svg)](https://wakatime.com/badge/github/gtqifan/TodoPerfect)
-
 # TodoPerfect ⌚
 
 **An Andriod 🤖 application for CS 3300 by Team 03 - Placeholder**
